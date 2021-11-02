@@ -1,4 +1,10 @@
 ## Regional Traffic Management
+A Managememnt project made using basic OOP features. The data management has been executed through file stream.The notable features that have been used in the project include:
+1.Built in libraries of C++
+2.CLass And objects and interelation such as inheritance, aggregration and composition
+3.File Stream and basic IO manipulation
+4.STL, exception handling and all other important features
+
 
 ### Project LOGO:
 ![logo](https://user-images.githubusercontent.com/83116065/139806830-870b3851-ba47-437a-8ac4-33db5c7f3297.JPG)
@@ -45,21 +51,8 @@ UML Digram
 
 
 
-### Steps to Add your files in git:
-1. git add .
-2. git commit -m "message"
-3. git push
+Team Members:
+Abid Hasan
+Sheikh Tafsir Rahman
+Arafat Bin Amin Drubo
 
-
-### Steps to copy the repo in local drive:
-1. git clone https://github.com/abidh8820/Regional-Traffic-Management.git
-
-
-### Steps to repush files in git:
-1. git pull
-2. git add .
-3. git commit -m "message"
-4. git push
-
-
-//ALWAYS PULL BEFORE ADD,PUSH
