@@ -51,8 +51,5 @@ UML Digram
 
 
 
-Team Members:
-Abid Hasan
-Sheikh Tafsir Rahman
-Arafat Bin Amin Drubo
+
 
